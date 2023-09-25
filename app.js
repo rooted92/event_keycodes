@@ -18,4 +18,4 @@ window.addEventListener('keydown', function(e) {
             <p class="keycode">${e.code}</p>
         </div>    
     `;
-})
+});
